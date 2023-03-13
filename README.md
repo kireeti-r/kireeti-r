@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master's student in Computer Science with 3 years of experience in Software Engineering and Development.
+Computer Science Master's student at University of Florida with 3 years of experience in Software Engineering and Development.
 
 
 ## 🌐 Socials:
